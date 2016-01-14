@@ -1,0 +1,669 @@
+fileFormatVersion: 2
+guid: b1aad450e89df4bb7b5e454741721e77
+timeCreated: 1452698506
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FlapLeftWing0001
+    21300002: FlapLeftWing0002
+    21300004: FlapLeftWing0003
+    21300006: FlapLeftWing0004
+    21300008: FlapLeftWing0005
+    21300010: FlapLeftWing0006
+    21300012: FlapLeftWing0007
+    21300014: FlapLeftWing0008
+    21300016: FlapLeftWing0009
+    21300018: FlapLeftWing0010
+    21300020: FlapLeftWing0011
+    21300022: FlapLeftWing0012
+    21300024: FlapLeftWing0013
+    21300026: FlapLeftWing0014
+    21300028: FlapLeftWing0015
+    21300030: FlapLeftWing0016
+    21300032: FlapLeftWing0017
+    21300034: FlapLeftWing0018
+    21300036: FlapLeftWing0019
+    21300038: FlapLeftWing0020
+    21300040: FlapLeftWing0021
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FlapLeftWing0001
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 442
+        width: 161
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4937888, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 11.5}
+        - {x: -40.5, y: 13.5}
+        - {x: -68.5, y: 33.5}
+        - {x: -76.5, y: 33.5}
+        - {x: -79.5, y: 23.5}
+        - {x: -79.5, y: -16.5}
+        - {x: -78.5, y: -20.5}
+        - {x: -76.5, y: -25.5}
+        - {x: -71.5, y: -34.5}
+        - {x: -64.5, y: -34.5}
+        - {x: -32.5, y: -24.5}
+        - {x: -32.5, y: -15.5}
+      - - {x: 52.5, y: 33.5}
+        - {x: 30.5, y: 4.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 58.5, y: -34.5}
+        - {x: 77.5, y: -34.5}
+        - {x: 81.5, y: -25.5}
+        - {x: 81.5, y: 26.5}
+        - {x: 80.5, y: 33.5}
+    - name: FlapLeftWing0002
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 442
+        width: 161
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4937888, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 11.5}
+        - {x: -40.5, y: 13.5}
+        - {x: -68.5, y: 33.5}
+        - {x: -76.5, y: 33.5}
+        - {x: -79.5, y: 23.5}
+        - {x: -79.5, y: -16.5}
+        - {x: -78.5, y: -20.5}
+        - {x: -76.5, y: -25.5}
+        - {x: -71.5, y: -34.5}
+        - {x: -64.5, y: -34.5}
+        - {x: -32.5, y: -24.5}
+        - {x: -32.5, y: -15.5}
+      - - {x: 52.5, y: 33.5}
+        - {x: 30.5, y: 4.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 58.5, y: -34.5}
+        - {x: 77.5, y: -34.5}
+        - {x: 81.5, y: -25.5}
+        - {x: 81.5, y: 26.5}
+        - {x: 80.5, y: 33.5}
+    - name: FlapLeftWing0003
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 442
+        width: 161
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4937888, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 11.5}
+        - {x: -40.5, y: 13.5}
+        - {x: -68.5, y: 33.5}
+        - {x: -76.5, y: 33.5}
+        - {x: -79.5, y: 23.5}
+        - {x: -79.5, y: -16.5}
+        - {x: -78.5, y: -20.5}
+        - {x: -76.5, y: -25.5}
+        - {x: -71.5, y: -34.5}
+        - {x: -64.5, y: -34.5}
+        - {x: -32.5, y: -24.5}
+        - {x: -32.5, y: -15.5}
+      - - {x: 52.5, y: 33.5}
+        - {x: 30.5, y: 4.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 58.5, y: -34.5}
+        - {x: 77.5, y: -34.5}
+        - {x: 81.5, y: -25.5}
+        - {x: 81.5, y: 26.5}
+        - {x: 80.5, y: 33.5}
+    - name: FlapLeftWing0004
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 442
+        width: 161
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4937888, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 11.5}
+        - {x: -40.5, y: 13.5}
+        - {x: -68.5, y: 33.5}
+        - {x: -76.5, y: 33.5}
+        - {x: -79.5, y: 23.5}
+        - {x: -79.5, y: -16.5}
+        - {x: -78.5, y: -20.5}
+        - {x: -76.5, y: -25.5}
+        - {x: -71.5, y: -34.5}
+        - {x: -64.5, y: -34.5}
+        - {x: -32.5, y: -24.5}
+        - {x: -32.5, y: -15.5}
+      - - {x: 52.5, y: 33.5}
+        - {x: 30.5, y: 4.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 58.5, y: -34.5}
+        - {x: 77.5, y: -34.5}
+        - {x: 81.5, y: -25.5}
+        - {x: 81.5, y: 26.5}
+        - {x: 80.5, y: 33.5}
+    - name: FlapLeftWing0005
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 442
+        width: 161
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4937888, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: 11.5}
+        - {x: -40.5, y: 13.5}
+        - {x: -68.5, y: 33.5}
+        - {x: -76.5, y: 33.5}
+        - {x: -79.5, y: 23.5}
+        - {x: -79.5, y: -16.5}
+        - {x: -78.5, y: -20.5}
+        - {x: -76.5, y: -25.5}
+        - {x: -71.5, y: -34.5}
+        - {x: -64.5, y: -34.5}
+        - {x: -32.5, y: -24.5}
+        - {x: -32.5, y: -15.5}
+      - - {x: 52.5, y: 33.5}
+        - {x: 30.5, y: 4.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 58.5, y: -34.5}
+        - {x: 77.5, y: -34.5}
+        - {x: 81.5, y: -25.5}
+        - {x: 81.5, y: 26.5}
+        - {x: 80.5, y: 33.5}
+    - name: FlapLeftWing0006
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 372
+        width: 156
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4775641, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 33.5}
+        - {x: -74.5, y: -27.5}
+        - {x: -69.5, y: -34.5}
+        - {x: -33.5, y: -34.5}
+        - {x: -33.5, y: 33.5}
+      - - {x: 30.5, y: 12.5}
+        - {x: 30.5, y: -26.5}
+        - {x: 63.5, y: -34.5}
+        - {x: 73.5, y: -34.5}
+        - {x: 81.5, y: -22.5}
+        - {x: 81.5, y: 33.5}
+        - {x: 62.5, y: 33.5}
+        - {x: 31.5, y: 16.5}
+    - name: FlapLeftWing0007
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 302
+        width: 152
+        height: 68
+      alignment: 9
+      pivot: {x: 0.46381578, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -61.5, y: 33.5}
+        - {x: -70.5, y: 33.5}
+        - {x: -70.5, y: -26.5}
+        - {x: -69.5, y: -33.5}
+        - {x: -67.5, y: -34.5}
+        - {x: -58.5, y: -34.5}
+        - {x: -34.5, y: -23.5}
+        - {x: -34.5, y: 0.5}
+        - {x: -35.5, y: 15.5}
+      - - {x: 30.5, y: 12.5}
+        - {x: 30.5, y: -26.5}
+        - {x: 63.5, y: -34.5}
+        - {x: 73.5, y: -34.5}
+        - {x: 81.5, y: -22.5}
+        - {x: 81.5, y: 33.5}
+        - {x: 62.5, y: 33.5}
+        - {x: 31.5, y: 16.5}
+    - name: FlapLeftWing0008
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 229
+        width: 147
+        height: 70
+      alignment: 9
+      pivot: {x: 0.44557822, y: 0.50714284}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 34.5}
+        - {x: -63.5, y: 34.5}
+        - {x: -65.5, y: 29.5}
+        - {x: -65.5, y: -24.5}
+        - {x: -61.5, y: -35.5}
+        - {x: -55.5, y: -35.5}
+        - {x: -35.5, y: -19.5}
+        - {x: -35.5, y: -5.5}
+        - {x: -36.5, y: 10.5}
+      - - {x: 60.5, y: 34.5}
+        - {x: 35.5, y: 13.5}
+        - {x: 30.5, y: -14.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 55.5, y: -35.5}
+        - {x: 79.5, y: -35.5}
+        - {x: 81.5, y: -32.5}
+        - {x: 81.5, y: 31.5}
+        - {x: 80.5, y: 34.5}
+    - name: FlapLeftWing0009
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 158
+        width: 143
+        height: 71
+      alignment: 9
+      pivot: {x: 0.43006992, y: 0.5140845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: 34.5}
+        - {x: -61.5, y: 34.5}
+        - {x: -61.5, y: -36.5}
+        - {x: -51.5, y: -36.5}
+        - {x: -36.5, y: -25.5}
+        - {x: -36.5, y: 19.5}
+      - - {x: 60.5, y: 34.5}
+        - {x: 35.5, y: 13.5}
+        - {x: 30.5, y: -14.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 57.5, y: -36.5}
+        - {x: 78.5, y: -36.5}
+        - {x: 81.5, y: -32.5}
+        - {x: 81.5, y: 31.5}
+        - {x: 80.5, y: 34.5}
+    - name: FlapLeftWing0010
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 81
+        width: 138
+        height: 73
+      alignment: 9
+      pivot: {x: 0.40942028, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.5, y: 36.5}
+        - {x: -56.5, y: 36.5}
+        - {x: -56.5, y: -29.5}
+        - {x: -54.5, y: -36.5}
+        - {x: -48.5, y: -36.5}
+        - {x: -36.5, y: -26.5}
+        - {x: -36.5, y: -8.5}
+        - {x: -37.5, y: 12.5}
+      - - {x: 77.5, y: 35.5}
+        - {x: 45.5, y: 35.5}
+        - {x: 30.5, y: 3.5}
+        - {x: 30.5, y: -36.5}
+        - {x: 76.5, y: -36.5}
+        - {x: 81.5, y: -28.5}
+        - {x: 81.5, y: 29.5}
+    - name: FlapLeftWing0011
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 161
+        width: 146
+        height: 69
+      alignment: 9
+      pivot: {x: 0.44178084, y: 0.51449275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: 33.5}
+        - {x: -64.5, y: 33.5}
+        - {x: -64.5, y: -27.5}
+        - {x: -60.5, y: -35.5}
+        - {x: -54.5, y: -35.5}
+        - {x: -35.5, y: -22.5}
+        - {x: -35.5, y: 1.5}
+        - {x: -37.5, y: 12.5}
+      - - {x: 30.5, y: -14.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 55.5, y: -35.5}
+        - {x: 81.5, y: -35.5}
+        - {x: 81.5, y: 33.5}
+        - {x: 64.5, y: 33.5}
+        - {x: 35.5, y: 13.5}
+    - name: FlapLeftWing0012
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 372
+        width: 155
+        height: 68
+      alignment: 9
+      pivot: {x: 0.47419354, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: -34.5}
+        - {x: -53.5, y: -34.5}
+        - {x: -33.5, y: -26.5}
+        - {x: -33.5, y: -4.5}
+        - {x: -38.5, y: 15.5}
+        - {x: -64.5, y: 33.5}
+        - {x: -73.5, y: 33.5}
+        - {x: -73.5, y: -31.5}
+      - - {x: 30.5, y: 11.5}
+        - {x: 30.5, y: -26.5}
+        - {x: 58.5, y: -34.5}
+        - {x: 75.5, y: -34.5}
+        - {x: 81.5, y: -24.5}
+        - {x: 81.5, y: 33.5}
+        - {x: 62.5, y: 33.5}
+        - {x: 31.5, y: 16.5}
+    - name: FlapLeftWing0013
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 442
+        width: 163
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.5, y: 33.5}
+        - {x: -81.5, y: 33.5}
+        - {x: -81.5, y: -29.5}
+        - {x: -79.5, y: -34.5}
+        - {x: -46.5, y: -34.5}
+        - {x: -35.5, y: -31.5}
+        - {x: -32.5, y: -24.5}
+        - {x: -32.5, y: -9.5}
+        - {x: -39.5, y: 15.5}
+      - - {x: 52.5, y: 33.5}
+        - {x: 30.5, y: 4.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 58.5, y: -34.5}
+        - {x: 77.5, y: -34.5}
+        - {x: 81.5, y: -25.5}
+        - {x: 81.5, y: 26.5}
+        - {x: 80.5, y: 33.5}
+    - name: FlapLeftWing0014
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 371
+        width: 159
+        height: 69
+      alignment: 9
+      pivot: {x: 0.4874214, y: 0.51449275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77.5, y: 33.5}
+        - {x: -77.5, y: -34.5}
+        - {x: -76.5, y: -35.5}
+        - {x: -48.5, y: -35.5}
+        - {x: -32.5, y: -30.5}
+        - {x: -32.5, y: -0.5}
+        - {x: -35.5, y: 9.5}
+        - {x: -61.5, y: 33.5}
+      - - {x: 53.5, y: 33.5}
+        - {x: 30.5, y: 3.5}
+        - {x: 30.5, y: -23.5}
+        - {x: 54.5, y: -35.5}
+        - {x: 77.5, y: -35.5}
+        - {x: 81.5, y: -28.5}
+        - {x: 81.5, y: 33.5}
+    - name: FlapLeftWing0015
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 302
+        width: 154
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4707792, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: 33.5}
+        - {x: -72.5, y: -28.5}
+        - {x: -71.5, y: -34.5}
+        - {x: -53.5, y: -34.5}
+        - {x: -34.5, y: -24.5}
+        - {x: -34.5, y: 10.5}
+        - {x: -35.5, y: 19.5}
+        - {x: -60.5, y: 33.5}
+      - - {x: 30.5, y: 12.5}
+        - {x: 30.5, y: -26.5}
+        - {x: 63.5, y: -34.5}
+        - {x: 73.5, y: -34.5}
+        - {x: 81.5, y: -22.5}
+        - {x: 81.5, y: 33.5}
+        - {x: 62.5, y: 33.5}
+        - {x: 31.5, y: 16.5}
+    - name: FlapLeftWing0016
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 232
+        width: 149
+        height: 68
+      alignment: 9
+      pivot: {x: 0.45302013, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -65.5, y: 33.5}
+        - {x: -67.5, y: 29.5}
+        - {x: -67.5, y: -27.5}
+        - {x: -64.5, y: -31.5}
+        - {x: -62.5, y: -34.5}
+        - {x: -37.5, y: -34.5}
+        - {x: -35.5, y: -29.5}
+        - {x: -35.5, y: 29.5}
+        - {x: -52.5, y: 33.5}
+      - - {x: 30.5, y: 12.5}
+        - {x: 30.5, y: -26.5}
+        - {x: 63.5, y: -34.5}
+        - {x: 73.5, y: -34.5}
+        - {x: 81.5, y: -22.5}
+        - {x: 81.5, y: 33.5}
+        - {x: 62.5, y: 33.5}
+        - {x: 31.5, y: 16.5}
+    - name: FlapLeftWing0017
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 156
+        width: 144
+        height: 71
+      alignment: 9
+      pivot: {x: 0.4340278, y: 0.5140845}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 12.5}
+        - {x: -54.5, y: 34.5}
+        - {x: -62.5, y: 34.5}
+        - {x: -62.5, y: -26.5}
+        - {x: -59.5, y: -36.5}
+        - {x: -53.5, y: -36.5}
+        - {x: -36.5, y: -27.5}
+        - {x: -35.5, y: -26.5}
+        - {x: -35.5, y: -7.5}
+      - - {x: 60.5, y: 34.5}
+        - {x: 35.5, y: 13.5}
+        - {x: 30.5, y: -14.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 57.5, y: -36.5}
+        - {x: 78.5, y: -36.5}
+        - {x: 81.5, y: -32.5}
+        - {x: 81.5, y: 31.5}
+        - {x: 80.5, y: 34.5}
+    - name: FlapLeftWing0018
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 86
+        width: 140
+        height: 73
+      alignment: 9
+      pivot: {x: 0.41785714, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58.5, y: -36.5}
+        - {x: -36.5, y: -36.5}
+        - {x: -36.5, y: 12.5}
+        - {x: -45.5, y: 36.5}
+        - {x: -57.5, y: 36.5}
+        - {x: -58.5, y: 33.5}
+      - - {x: 73.5, y: 35.5}
+        - {x: 70.5, y: 32.5}
+        - {x: 35.5, y: 13.5}
+        - {x: 30.5, y: -5.5}
+        - {x: 30.5, y: -26.5}
+        - {x: 64.5, y: -36.5}
+        - {x: 71.5, y: -36.5}
+        - {x: 74.5, y: -35.5}
+        - {x: 81.5, y: -22.5}
+        - {x: 81.5, y: 26.5}
+        - {x: 80.5, y: 35.5}
+    - name: FlapLeftWing0019
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 231
+        width: 147
+        height: 69
+      alignment: 9
+      pivot: {x: 0.44557822, y: 0.51449275}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 10.5}
+        - {x: -58.5, y: 33.5}
+        - {x: -64.5, y: 33.5}
+        - {x: -65.5, y: 30.5}
+        - {x: -65.5, y: -23.5}
+        - {x: -62.5, y: -31.5}
+        - {x: -60.5, y: -35.5}
+        - {x: -52.5, y: -35.5}
+        - {x: -35.5, y: -32.5}
+        - {x: -35.5, y: -7.5}
+      - - {x: 30.5, y: -14.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 55.5, y: -35.5}
+        - {x: 81.5, y: -35.5}
+        - {x: 81.5, y: 33.5}
+        - {x: 64.5, y: 33.5}
+        - {x: 35.5, y: 13.5}
+    - name: FlapLeftWing0020
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 301
+        width: 154
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4707792, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 33.5}
+        - {x: -72.5, y: 33.5}
+        - {x: -72.5, y: -25.5}
+        - {x: -66.5, y: -34.5}
+        - {x: -59.5, y: -34.5}
+        - {x: -34.5, y: -27.5}
+        - {x: -34.5, y: 5.5}
+        - {x: -36.5, y: 17.5}
+      - - {x: 30.5, y: 12.5}
+        - {x: 30.5, y: -26.5}
+        - {x: 63.5, y: -34.5}
+        - {x: 73.5, y: -34.5}
+        - {x: 81.5, y: -22.5}
+        - {x: 81.5, y: 33.5}
+        - {x: 62.5, y: 33.5}
+        - {x: 31.5, y: 16.5}
+    - name: FlapLeftWing0021
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 442
+        width: 161
+        height: 68
+      alignment: 9
+      pivot: {x: 0.4937888, y: 0.50735295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.5, y: 33.5}
+        - {x: -75.5, y: 33.5}
+        - {x: -79.5, y: 21.5}
+        - {x: -79.5, y: -17.5}
+        - {x: -78.5, y: -23.5}
+        - {x: -71.5, y: -34.5}
+        - {x: -63.5, y: -34.5}
+        - {x: -32.5, y: -27.5}
+        - {x: -32.5, y: -5.5}
+        - {x: -35.5, y: 10.5}
+      - - {x: 52.5, y: 33.5}
+        - {x: 30.5, y: 4.5}
+        - {x: 30.5, y: -22.5}
+        - {x: 58.5, y: -34.5}
+        - {x: 77.5, y: -34.5}
+        - {x: 81.5, y: -25.5}
+        - {x: 81.5, y: 26.5}
+        - {x: 80.5, y: 33.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
